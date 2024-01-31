@@ -1,4 +1,4 @@
-# my-study
+# Stock Prediction App
 
 ## Project setup
 ```
