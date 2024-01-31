@@ -1,0 +1,13 @@
+numpy
+matplotlib
+pandas
+tensorflow
+scikit-learn
+yfinance
+yahoo_fin
+sklearn
+datetime
+mplfinance
+statsmodels
+plotly
+uvicorn
